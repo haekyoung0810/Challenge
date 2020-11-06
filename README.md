@@ -1,8 +1,8 @@
 
-1. Momonton
+# 1. Momonton
   - A clone of the productivity Chrome App Momentum on Vanilla JS
   
-  Features
+  ## Features
     ⭕ Clock
     ⭕ TO DO List
     ⭕ Weather
